@@ -8,8 +8,13 @@ Time spent: **4** hours spent in total
 ## User Stories
 
 The following **required** functionality is completed:
+  
+1. [ x]  Required: Read Topics
+    -  [ x] Prerequisite Reading Topics
+    -  [ x] Attack
+    -  [ x] Defend
 
-1. [ x]  Required: Complete 4 out of 10 challenges
+2. [ x]  Required: Complete 4 out of 10 challenges
     -  [ x]  SQL Injection
     -  [ x]  SQL Injection 1
     -  [ x]  SQL Injection 2
@@ -20,11 +25,6 @@ The following **required** functionality is completed:
     -  [  ]  SQL Injection Stored Procedure
     -  [  ]  SQL Injection 6
     -  [  ]  SQL Injection 7
-  
-2. [ x]  Required: Read Topics
-    -  [ x] Prerequisite Reading Topics
-    -  [ x] Attack
-    -  [ x] Defend
 
 The following advanced user stories are optional:
 
