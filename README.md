@@ -1,9 +1,8 @@
 SQL injection Challenges from Security Shepherd
 
-** EDIT THIS TEXT TO COPY THE TEMPLATE AND MAKE CHANGES**
 # Cybersecurity WEEK 2 - *jennatrunnelle* 
 
-Time spent: **4** hours spent in total 
+Time spent: **6** hours spent in total 
 
 ## User Stories
 
