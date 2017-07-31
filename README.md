@@ -10,9 +10,9 @@ Time spent: **4** hours spent in total
 The following **required** functionality is completed:
   
 1. [x]  Required: Read Topics
-    -  [ x] Prerequisite Reading Topics
-    -  [ x] Attack
-    -  [ x] Defend
+    -  [x] Prerequisite Reading Topics
+    -  [x] Attack
+    -  [x] Defend
 
 2. [x]  Required: Complete 4 out of 10 challenges
     -  [x]  SQL Injection
