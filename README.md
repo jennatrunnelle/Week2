@@ -19,12 +19,12 @@ The following **required** functionality is completed:
     -  [x]  SQL Injection 1
     -  [x]  SQL Injection 2
     -  [x]  SQL Injection Escaping
-    -  [  ]  SQL Injection 3
-    -  [  ]  SQL Injection 4
-    -  [  ]  SQL Injection 5
-    -  [  ]  SQL Injection Stored Procedure
-    -  [  ]  SQL Injection 6
-    -  [  ]  SQL Injection 7
+    -  [ ]  SQL Injection 3
+    -  [ ]  SQL Injection 4
+    -  [ ]  SQL Injection 5
+    -  [ ]  SQL Injection Stored Procedure
+    -  [ ]  SQL Injection 6
+    -  [ ]  SQL Injection 7
 
 The following advanced user stories are optional:
 
